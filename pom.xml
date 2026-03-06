@@ -9,7 +9,7 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.order.service.app</groupId>
-	<artifactId>msvc-cat-country</artifactId>
+	<artifactId>msvc-order-service</artifactId>
 	<version>1.0.0-SNAPSHOT</version>
 	<name>msvc-order-service</name>
 	<description>Pedidos del cliente</description>

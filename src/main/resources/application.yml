@@ -1,7 +1,7 @@
 
 spring:
   application:
-    name: ${SPRING_APP_NAME:msvc-customer-service}
+    name: ${SPRING_APP_NAME:msvc-order-service}
   profiles:
     active:
       -  default
